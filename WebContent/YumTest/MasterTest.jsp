@@ -11,5 +11,7 @@
 	<h2>branch인 member에서 추가한 항목</h2>
 	
 	<h2>Test브런치가 있는 사이에 Master에서 수정했습니다</h2>
+	
+	<h2>마스터에서 수정한 항목</h2>
 </body>
 </html>
